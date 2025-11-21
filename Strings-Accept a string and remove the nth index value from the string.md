@@ -1,4 +1,4 @@
-# Module-3
+
 # 3c)  Strings-Remove Nth Index Character from a String
 
 ## Aim
